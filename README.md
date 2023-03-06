@@ -38,7 +38,7 @@ GIF created with (https://getkap.co/) for macOS
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+One challenge I encountered was networking and getting all the information from the given API and also importing images, I couldn't figure out how to use Nuke so instead I used alamofireimage.
 
 ## License
 
