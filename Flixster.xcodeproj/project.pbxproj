@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		CA18789529BC216B00D20920 /* MovieGridViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CA18789429BC216B00D20920 /* MovieGridViewController.swift */; };
+		CA18789729BC29F500D20920 /* MovieGridCellCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = CA18789629BC29F500D20920 /* MovieGridCellCollectionViewCell.swift */; };
 		CA58CC4629B3297800B32190 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = CA58CC4529B3297800B32190 /* AppDelegate.swift */; };
 		CA58CC4829B3297800B32190 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = CA58CC4729B3297800B32190 /* SceneDelegate.swift */; };
 		CA58CC4A29B3297800B32190 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CA58CC4929B3297800B32190 /* ViewController.swift */; };
@@ -19,6 +21,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		CA18789429BC216B00D20920 /* MovieGridViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MovieGridViewController.swift; sourceTree = "<group>"; };
+		CA18789629BC29F500D20920 /* MovieGridCellCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MovieGridCellCollectionViewCell.swift; sourceTree = "<group>"; };
 		CA58CC4229B3297800B32190 /* Flixster.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Flixster.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		CA58CC4529B3297800B32190 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		CA58CC4729B3297800B32190 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -67,6 +71,8 @@
 				CA58CC4929B3297800B32190 /* ViewController.swift */,
 				CA58CC5E29B3DFD500B32190 /* DetailViewController.swift */,
 				CA58CC5929B32DEE00B32190 /* MovieCell.swift */,
+				CA18789429BC216B00D20920 /* MovieGridViewController.swift */,
+				CA18789629BC29F500D20920 /* MovieGridCellCollectionViewCell.swift */,
 				CA58CC4B29B3297800B32190 /* Main.storyboard */,
 				CA58CC4E29B3297B00B32190 /* Assets.xcassets */,
 				CA58CC5029B3297C00B32190 /* LaunchScreen.storyboard */,
@@ -157,6 +163,8 @@
 				CA58CC5F29B3DFD600B32190 /* DetailViewController.swift in Sources */,
 				CA58CC5A29B32DEE00B32190 /* MovieCell.swift in Sources */,
 				CA58CC4829B3297800B32190 /* SceneDelegate.swift in Sources */,
+				CA18789529BC216B00D20920 /* MovieGridViewController.swift in Sources */,
+				CA18789729BC29F500D20920 /* MovieGridCellCollectionViewCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
