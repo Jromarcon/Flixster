@@ -1,10 +1,10 @@
-# Project 3 - *Name of App Here*
+# Project 3 - *Flixster pt 2*
 
-Submitted by: **Your Name Here**
+Submitted by: **Jose Marcon**
 
-**Name of your app** is an app that introduces networking ... [TODO] 
+**Flixster** is an app that introduces networking and how the app connects to API to get data from the cloud 
 
-Time spent: **X** hours spent in total
+Time spent: **6** hours spent in total
 
 ## Required Features
 
